@@ -1,3 +1,5 @@
+package src;
+
 public class CurrentAccount extends Bank{
 
     public CurrentAccount (double totalAmount, double depositAmount, double withdrawAmount){

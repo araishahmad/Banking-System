@@ -1,3 +1,5 @@
+package src;
+
 public enum BankAccountType {
     SavingAccount(1.3),
     CurrentAccount(0.0);

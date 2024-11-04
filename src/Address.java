@@ -1,3 +1,5 @@
+package src;
+
 public class Address {
     private int houseNo;
     private int streetNo;

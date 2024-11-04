@@ -1,3 +1,5 @@
+package src;
+
 abstract class BankStructure {
     protected double totalAmount;
     protected double withdrawAmount;

@@ -1,3 +1,5 @@
+package src;
+
 public class SavingAccount extends Bank{
 
     public SavingAccount (double totalAmount, double depositAmount, double withdrawAmount){
